@@ -13,8 +13,8 @@ const passport = require('passport');
 const FacebookStrategy = require('passport-facebook').Strategy;
 
 /* -------------- login FB -------------- */
-const FACEBOOK_APP_ID = '1088323731578912';
-const FACEBOOK_APP_SECRET = 'a543fd2feda2975c012023c86d34b8b3';
+const FACEBOOK_APP_ID = 'aaaaaaa';
+const FACEBOOK_APP_SECRET = 'sssssshhhhhh';
 
 
 passport.use(new FacebookStrategy({
